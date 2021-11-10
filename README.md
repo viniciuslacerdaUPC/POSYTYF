@@ -2,7 +2,7 @@
 Repository for the models developed in the WP1 of the POSYTYF project
 Please read the file 'Models Introduction.pdf' for a brief introduction about the models.
 
-The models developed so far are:
+The models developed so far were:
 
 - Scenario 17 depicted on Fig.37 page 55 of the Deliverable D1.1
 - Selected Scenario 1 depicted on Fig.68 page 91 of the Deliverable D1.1
