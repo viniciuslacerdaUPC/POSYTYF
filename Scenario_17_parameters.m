@@ -24,7 +24,7 @@ G1gen = 0.50;
 G5gen = 0.75;
 G6gen = 0.90;
 G7gen = 0.60;
-G8gen = 0.55; 
+G8gen = 0.58; 
 G9gen = 0.85; 
 G11gen = 0.90; 
 %% Transformers
