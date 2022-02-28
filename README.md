@@ -19,22 +19,22 @@ Models in the context of - Deliverable 2.2 - Objectives and assessment criteria 
 
 The archive D22_HTW_Berlin.7z contains the following Simulink/Matlab models:
 
-+ Primary = primary energy conversion
-+-+ HY = hydro power plant
-+-+ PV = photovoltaic power plant
-| +-+ PO = perturb and observation algorithm
-| +-+ EX = fast generic exact algorithm
-+-+ SP = solat thermal power plant
-+-+ WT = wind turbine power plant
-  +-+ OS1 = operational strategy 1
-  +-+ OS2 = operational strategy 2
+1. Primary = primary energy conversion
+   - HY = hydro power plant
+   - PV = photovoltaic power plant
+     - PO = perturb and observation algorithm
+     - EX = fast generic exact algorithm
+   - SP = solat thermal power plant
+   - WT = wind turbine power plant
+     - OS1 = operational strategy 1
+     - OS2 = operational strategy 2
 
-+ Secondary = secondary energy conversion
-+-+ SG = synchronous generator
-+-+ INV = inverter / converter
-  +-+ GFOL = grid following mode
-  +-+ GFOR = grid forming mode
-    +-+ EMT = electromagnetic transient simulation model
-    +-+ RMS = root mean square model
+2. Secondary = secondary energy conversion
+   - SG = synchronous generator
+   - INV = inverter / converter
+     - GFOL = grid following mode
+     - GFOR = grid forming mode
+       - EMT = electromagnetic transient simulation model
+       - RMS = root mean square model
 
 Any questions about WP 2 can be sent directly to Stephan.Kusche@HTW-Berlin.de and Florian.Poeschke@HTW-Berlin.de
